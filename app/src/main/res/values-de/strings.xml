@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Messing Around</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="Users_name_edit_text">Dein Name</string>
+    <string name="Happy_Question">Bist du glucklich?</string>
+    <string name="Ye_Answer">Ja</string>
+    <string name="Nah_answer">Nein</string>
+    <string name="Nah_Answer_Hint">Nicht Mich</string>
+    <string name="Ye_Answer_Hint">Mich!</string>
+</resources>
